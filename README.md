@@ -1,4 +1,4 @@
-### Olá! Eu sou a Tamires Galvão 👋
+### Olá! Eu sou a Tamires 👋
 
 <!--
 **tamires-galvao/tamires-galvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
