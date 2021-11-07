@@ -29,7 +29,7 @@
 </div>  
 
   ##
-<div>
+<div display:inline-block;>
   <div float:left>
     <a href="https://github.com/tamires-galvao">  
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamires-galvao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>   
