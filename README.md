@@ -1,14 +1,12 @@
 ### Olá! Eu sou a Tamires 👋
 
-<!--
-**tamires-galvao/tamires-galvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+##
+### Sobre mim
 - 👩‍💻 Desenvolvedora de Sistemas na Evol Soluções 
-- 🌱 Estudando Dart e Flutter
-- 🎯 Interesses: HTML, CSS, JavaScript, Java, Spring Boot, Dart, Flutter
--->
+- 👩‍🎓 Formada em Análise e Desenvolvimento de Sistemas
+- 📖 Apaixonada por leitura 
+- 🎮 Fã de jogos de estrategias, animes e series, em especial o anime e a saga de jogos pokémon.  
+
 ![Snake animation](https://github.com/tamires-galvao/tamires-galvao/blob/output/github-contribution-grid-snake.svg)
 
 ### Tecnologias que estou estudando: 💻❤
